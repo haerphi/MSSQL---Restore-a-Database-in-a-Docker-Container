@@ -8,9 +8,9 @@
 
 ## Copy the file in the container
 
-    ```bash
-    docker cp YourData.bak sqlserver:/var/opt/mssql/data
-    ```
+```bash
+docker cp YourData.bak sqlserver:/var/opt/mssql/data
+```
 
 ## Restore the database without SSMS
 
